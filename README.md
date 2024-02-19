@@ -1,5 +1,5 @@
 # Train GPT
-Training the model for Ben Miriello 2024 portfolio site.
+Training a custom model based on openai's gpt2.
 
 ## How it's done
 
